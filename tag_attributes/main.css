@@ -1,0 +1,17 @@
+div{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+
+.happiness{
+  color:red;
+font-size: 100px;
+margin-left: auto;
+}
+.car{
+  color: white;
+  font-size: 50px;
+  background-color: black;
+  margin-right: auto;
+}
